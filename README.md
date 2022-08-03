@@ -1,2 +1,2 @@
 # wordleGraphs
-A visualization with Seaborn of my Wordle scores
+A mini-project: visualization with Seaborn of my Wordle scores!
